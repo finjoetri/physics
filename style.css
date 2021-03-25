@@ -26,6 +26,7 @@
 }
 .content{
 text-align:centre;
+top:8%;
     display: grid;
  color:#000000;
     grid-template-rows: auto 1fr auto;
